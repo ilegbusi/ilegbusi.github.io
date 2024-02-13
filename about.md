@@ -1,15 +1,20 @@
 ---
-layout: WE ARE AFRICANS
+layout: page
 title: AFIRIKA WA
-permalink: /ilegbusikehinde.github.io/
+permalink: /about/
 ---
 
-Some information about you! I am a historian interested in the global histories of struggles, resilience, and triumphs of African communities. I am open to promoting the ideas of pan-Africanism in every space and opportunities. 
+
+
+
+I am  a global historian with interest in African history. Outside this, I spent my life as Hope Ambassador helping to repair communities torn apart by government ingenuity!
+
 
 ### More Information
 
 
 
-### kehindebenson6@gmail.com
+[kehindebenson6@gmail.com](mailto:kehindebenson6@gmail.com)
 
-[email@domain.com](mailto:email@domain.com)
+
+![Hope Ambassadors visitation to Community Secondary School, Egbeda](../images/HopeAmbassadors.jpg)
