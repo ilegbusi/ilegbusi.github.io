@@ -7,7 +7,7 @@ permalink: /about/
 
 
 
-I am  a global historian with interest in African history. Outside this, I spent my life as Hope Ambassador helping to repair communities torn apart by government ingenuity!
+ On this page, we retell the genuine activities of Hope Ambassadors in helping to repair communities torn apart by government ingenuity. Their experience inspires true belief and hope that is evidence of a better African society, expressed through her culture, arts, politics, medicine and health, education, economy, justice system, technology, sport, and entertainment while navigating our imperfections. 
 
 
 ### More Information
