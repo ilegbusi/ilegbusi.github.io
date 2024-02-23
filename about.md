@@ -17,4 +17,4 @@ permalink: /about/
 [kehindebenson6@gmail.com](mailto:kehindebenson6@gmail.com)
 
 
-![Hope Ambassadors visitation to Community Secondary School, Egbeda](../images/HopeAmbassadors.jpg)
+![Hope Mission in Bariga ghetto, Lagos](../images/HOPEMISSIONINBARIGA.jpg)
