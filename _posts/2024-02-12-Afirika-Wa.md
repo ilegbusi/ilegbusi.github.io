@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Exhibition
+permalink: /Exhibition/
 title: post by category
 ---
 
