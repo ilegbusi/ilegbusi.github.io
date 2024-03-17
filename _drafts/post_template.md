@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 
-category:
+layout: page
+permalink: /Exhibition/
+title: post by category
 ---
 
 
