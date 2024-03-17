@@ -1,6 +1,7 @@
 ---
-layout: post
-title: The Color of Hope!
+layout: page
+permalink: /Exhibition
+title: post by category
 ---
 
  <p>Have you ever thought of achieving your big dreams without a process, or ever consider to stop dreaming when there are no results. Considering these issues and the imperfect situations that many kids in Africa are passing through and the prevalence of ingenuine hope mission has led to my curiosity to know about ''The Color of Hope in Africa.'' 
