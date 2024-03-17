@@ -1,13 +1,13 @@
 ---
 layout: page
-title: AFIRIKA WA
+title: Sorrow, Tears, and Blood
 permalink: /about/
 ---
 
 
 
 
- We retell the experience of panAfricanists and Hope Ambassadors in helping to repair black Atlantic world torn apart by ingenuity. Their genuine campaigns and movements inspires true belief, hope, and healing expressed through their culture, arts, politics, medicine and health, education, economy, justice system, technology, sport, and entertainment that reimagine worldmaking. 
+ We retell the 1978 'Ali Must Go' student uprising in Nigeria. Often regarded as the 'Mother of all Aluta' in Nigeria, we document this students movement by revealing how their resilience strategies and mission from below contributed to the worldmaking agenda of building a just society. 
 
 
 ### More Information
