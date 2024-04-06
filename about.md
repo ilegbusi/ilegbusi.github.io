@@ -12,7 +12,7 @@ permalink: /about/
  As part of the process of preserving their memories: ''Internationalizing the Strategies of Worldmaking: From the 1978 Student Uprising to the #Endsars Protest in Nigeria, retell and globalized the strategies of students and youths movements in Nigeria since 1978 as part of the worldmaking agenda of building a just and egalitarian society. 
 
 
-### Research problem
+### Research Problem
 
  The end of the Second World War (1939-1945) was a turning point in the history of decolonization in the black Atlantic world. It saw a drive towards building a just society. By the late 20th century, solidarity amongst groups was intensified as a major strategy for resisting oppressive systems of government and policies in Africa, America, Asia, Europe, and the rest of the world. As the struggle towards emancipation continues globally in 21st century, listening to, and preserving the strategies employed by students and youth population during social movements in Nigeria since the 1978 'Ali Must Go' uprising will be the major focus of this study.
  
@@ -21,29 +21,29 @@ permalink: /about/
  
  Given the emergence and spread of digital research in this global age, research of this magnitude internationalize these strategies by bringing alive the silent stories of communities applying a global approach that is scientific and artistic while bridging the gap between the town and the gown using tools. 
  
- ### Scope
+### Scope
  
  The spatial coverage is focused on Nigeria during the post-independence period. Agianst local or national interpretation, the study situates Nigeria in global historical context. Thematically, the study would internationalize the resistance strategies of students and youths since the 1978 ‘Ali Must Go’ uprising. This event happened during the military regime of Gen. Olusegun Obasanjo. Its impact in Nigeria and beyond will be placed in conversation with the move towards worldmaking during and after the military regime.
  
- ### Significance of study
+### Significance of Study
  
-  The number of profound steps taken to digitize themes on African past and present has driven my passion to work on the study as a digital humanist in training. Archiving these strategies would complement other historical studies driven toward preserving memories while placing an aspect of the micro-histories of Africa at the center of global discourse.  It would also help to recognize the unsung heroic roles played by communities despite their conditions. Internationalizing the strategies of the 1978 protest and #Endsars movement in Nigeria would help in planning and refining ongoing global movements and campaigns that reimagined communities.
+ The number of profound steps taken to digitize themes on African past and present has driven my passion to work on the study as a digital humanist in training. Archiving these strategies would complement other historical studies driven toward preserving memories while placing an aspect of the micro-histories of Africa at the center of global discourse.  It would also help to recognize the unsung heroic roles played by communities despite their conditions. Internationalizing the strategies of the 1978 protest and #Endsars movement in Nigeria would help in planning and refining ongoing global movements and campaigns that reimagined communities.
 
 #### Methodology
 
-This study is grounded on historical analysis, documented with the employment of GitHub. It makes use of primary evidence that will include oral testimonies, written records, photographs, songs, maps, and social media websites. These sources would be collaborated with secondary evidence like monographs and journal articles, and processed through an interdisciplinary method.
+ This study is grounded on historical analysis, documented with the employment of GitHub. It makes use of primary evidence that will include oral testimonies, written records, photographs, songs, maps, and social media websites. These sources would be collaborated with secondary evidence like monographs and journal articles, and processed through an interdisciplinary method.
 
-### What inspired the project?
+### What Inspired the Project?
 
-As a historian in training, I am strongly connected to the memories of resilience and triumphs of African communities. By listening to these stories, I encountered the hidden strategies that have shapeed past and ongoing struggles and campaigns dedicated to the process of worldmaking. Since the 1978 ‘Ali Must Go’ students uprising in Nigeria, many of these strategies lacked documentation, and even the few memories that are preserved are localized, national, or regional in perspective, hence, my desire to internationalize them as part of the campaigns towards reinforcing hope, good governance and egalitarian society.     
+ As a historian in training, I am strongly connected to the memories of resilience and triumphs of African communities. By listening to these stories, I encountered the hidden strategies that have shapeed past and ongoing struggles and campaigns dedicated to the process of worldmaking. Since the 1978 ‘Ali Must Go’ students uprising in Nigeria, many of these strategies lacked documentation, and even the few memories that are preserved are localized, national, or regional in perspective, hence, my desire to internationalize them as part of the campaigns towards reinforcing hope, good governance and egalitarian society.     
 
 ### Bibliography
 
 ### Maps
 
-### Navigating the website
+### Navigating the Website
 
-The website is easily accessible and designed to make navigation simple for first-timers,  or individuals with no prior training or knowledge of digital research. For effective navigation, our audience may follow the process below: 
+ The website is easily accessible and designed to make navigation simple for first-timers,  or individuals with no prior training or knowledge of digital research. For effective navigation, our audience may follow the process below: 
 
 About: This is the framework of the study. It includes brief information about the website, research problem, scope, significance of study,  methodology, inspirations or motivation, Bibliography, Maps, and the process of navigation.
 
