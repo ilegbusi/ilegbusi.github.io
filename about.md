@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Internationalizing the Strategies of Worldmaking: From the 1978 Student Uprising to the #Endsars Protest in Nigeria
+title: Internationalizing the Strategies of Worldmaking
 permalink: /about/
 ---
 
